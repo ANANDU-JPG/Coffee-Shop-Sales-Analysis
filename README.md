@@ -90,6 +90,5 @@ coffee-shop-sales-analysis/
 ├── README.md             # Project overview     
 
 
-## 📂 Project Structure
 
-git clone https://github.com/yourusername/coffee-shop-sales-analysis.git
+
